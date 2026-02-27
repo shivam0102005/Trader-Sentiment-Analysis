@@ -75,17 +75,18 @@ To determine whether market sentiment affects:
 ---
 
 ## 📂 Project Structure
-Trader_Sentiment_Analysis/
-│-fear_greed_index.csv
-|-historical_data.csv
+Trader-Sentiment-Analysis/
+│
+├── historical_data.csv
+├── fear_greed_index.csv
 ├── outputs/
 │   ├── pnl_by_sentiment.png
 │   ├── winrate_by_sentiment.png
 │   ├── risk_ratio.png
-│   ├── activity_heatmap.png
+│   └── activity_heatmap.png
 │
 ├── analysis.ipynb
-├── README.md
+└── README.md
 
 
 ✅ 📌 How to Run This Project
